@@ -1,1 +1,1 @@
-from mysteryfunction import do_something
+from .mysteryfunction import do_something
